@@ -1,0 +1,6 @@
+.profile {
+    padding: 20px;
+    margin-bottom: 32px;
+    border-bottom: 1px solid rgba(56, 49, 49, 0.103);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.062);
+}
